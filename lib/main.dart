@@ -55,7 +55,7 @@ class _CardState extends State<Card> {
             SizedBox(
               height: 20,
             ),
-            Text('Raiyan Nazeer',
+            Text('Raiyan Nazeer Mohammed',
                 style: TextStyle(fontSize: 33, fontFamily: 'ImperialScript')),
             SizedBox(
               height: 15,
